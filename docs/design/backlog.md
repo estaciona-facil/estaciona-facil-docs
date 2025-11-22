@@ -37,7 +37,7 @@ Após identificar e descrever os atores que irão interagir com o sistema, o pr�
 Com esse objetivo, elaboramos o seguinte diagrama de casos de uso, que representa visualmente todas as interações previstas e serve como base para o entendimento e desenvolvimento das funcionalidades.
 
 <p align="center">
-  <img src="../public/casosDeUso.png" />
+  <img src="https://github.com/estaciona-facil/estaciona-facil-docs/blob/main/docs/public/casosDeUso.png?raw=true" />
 </p>
 
 
