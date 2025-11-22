@@ -1,3 +1,4 @@
 - [Home](/)
 -
-- [Técnologias](docs/stack/tecnologiasUtilizadas.md)
+- [Técnologias](stack/tecnologiasUtilizadas)
+- [Design](design/backlog.md)
