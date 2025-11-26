@@ -59,3 +59,24 @@ Após identificar os casos de uso que o sistema deverá contemplar, é necessár
 | US10 | Cliente  | Eu **como** Cliente **desejo** registrar a saída do estacionamento **para** finalizar a utilização e encerrar a contagem de tempo. |
 | US11 | Cliente  | Eu **como** Cliente **desejo** realizar o pagamento **para** quitar o valor referente à utilização do estacionamento. |
 
+# Protóripo de alta fidelidade
+
+Para a elaboração do protótipo de alta fidelidade contei com duas ferramentas, o figma e o v0. O v0 ajudou inicialmente para a geração de estrutra e inspiração e após isso utilizei o figma para contruir as telas da minha forma. Você pode acessar o figma pelo link X e o v0 pelo link U.
+
+Pode ser que não esteja mais disponível e por isso abaixo deixo o resultado do protótipo.
+
+### Login e Cadastro (Figma)
+<img width="848" height="295" alt="image" src="https://github.com/user-attachments/assets/15bc73fa-0a48-4ca6-8be7-793ef49689d2" />
+
+### Consultar Placas (Figma)
+<img width="1386" height="802" alt="image" src="https://github.com/user-attachments/assets/6706d78b-d83a-4d37-8895-d9ff90bd371f" />
+<img width="1392" height="837" alt="image" src="https://github.com/user-attachments/assets/3372aad3-74c6-4127-a25f-578670cff61b" />
+
+### Veículos Estacionados (Figma)
+<img width="390" height="283" alt="image" src="https://github.com/user-attachments/assets/5f14e1b5-34a7-492d-b025-262303a3fb37" />
+
+## Dados do Estacionamento (v0)
+<img width="1214" height="640" alt="image" src="https://github.com/user-attachments/assets/368fd300-dbb3-46e5-98f3-8e1f3dac8a04" />
+
+
+
